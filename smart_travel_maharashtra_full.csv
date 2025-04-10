@@ -1,0 +1,151 @@
+Place_Name,Location,Category,Rating,Review_Text,Sentiment,Temperature,Weather,Opening_Hours
+Gateway of India,Mumbai,Historical,3.6,Amazing place with rich history!,positive,25°C,Pleasant,6 AM - 6 PM
+Gateway of India,Mumbai,Historical,4.7,A must-visit with family!,positive,25°C,Pleasant,6 AM - 6 PM
+Gateway of India,Mumbai,Historical,3.3,Had a decent experience overall.,neutral,25°C,Pleasant,6 AM - 6 PM
+Gateway of India,Mumbai,Historical,3.8,Spiritual and calming visit.,positive,25°C,Pleasant,6 AM - 6 PM
+Gateway of India,Mumbai,Historical,2.0,Had a decent experience overall.,neutral,25°C,Pleasant,6 AM - 6 PM
+Gateway of India,Mumbai,Historical,4.7,A must-visit with family!,positive,25°C,Pleasant,6 AM - 6 PM
+Gateway of India,Mumbai,Historical,4.3,Spiritual and calming visit.,positive,25°C,Pleasant,6 AM - 6 PM
+Gateway of India,Mumbai,Historical,1.1,Had a decent experience overall.,neutral,25°C,Pleasant,6 AM - 6 PM
+Gateway of India,Mumbai,Historical,2.8,A must-visit with family!,positive,25°C,Pleasant,6 AM - 6 PM
+Gateway of India,Mumbai,Historical,2.5,Food and facilities were disappointing.,negative,25°C,Pleasant,6 AM - 6 PM
+Ajanta Caves,Aurangabad,Heritage,1.2,Food and facilities were disappointing.,negative,25°C,Pleasant,6 AM - 6 PM
+Ajanta Caves,Aurangabad,Heritage,1.7,"Nothing extraordinary, just average.",neutral,25°C,Pleasant,6 AM - 6 PM
+Ajanta Caves,Aurangabad,Heritage,2.8,Spiritual and calming visit.,positive,25°C,Pleasant,6 AM - 6 PM
+Ajanta Caves,Aurangabad,Heritage,2.8,Amazing place with rich history!,positive,25°C,Pleasant,6 AM - 6 PM
+Ajanta Caves,Aurangabad,Heritage,3.0,"Not worth the hype, poorly maintained.",negative,25°C,Pleasant,6 AM - 6 PM
+Ajanta Caves,Aurangabad,Heritage,3.1,"Not worth the hype, poorly maintained.",negative,25°C,Pleasant,6 AM - 6 PM
+Ajanta Caves,Aurangabad,Heritage,4.5,Breathtaking view and peaceful atmosphere.,positive,25°C,Pleasant,6 AM - 6 PM
+Ajanta Caves,Aurangabad,Heritage,2.7,Very crowded and not clean.,negative,25°C,Pleasant,6 AM - 6 PM
+Ajanta Caves,Aurangabad,Heritage,4.0,A must-visit with family!,positive,25°C,Pleasant,6 AM - 6 PM
+Ajanta Caves,Aurangabad,Heritage,3.2,Had a decent experience overall.,neutral,25°C,Pleasant,6 AM - 6 PM
+Ellora Caves,Aurangabad,Heritage,2.7,Breathtaking view and peaceful atmosphere.,positive,25°C,Pleasant,6 AM - 6 PM
+Ellora Caves,Aurangabad,Heritage,3.5,Had a decent experience overall.,neutral,25°C,Pleasant,6 AM - 6 PM
+Ellora Caves,Aurangabad,Heritage,5.0,Beautiful architecture and well-preserved.,positive,25°C,Pleasant,6 AM - 6 PM
+Ellora Caves,Aurangabad,Heritage,1.1,Had a decent experience overall.,neutral,25°C,Pleasant,6 AM - 6 PM
+Ellora Caves,Aurangabad,Heritage,2.9,"Nothing extraordinary, just average.",neutral,25°C,Pleasant,6 AM - 6 PM
+Ellora Caves,Aurangabad,Heritage,2.5,Had a decent experience overall.,neutral,25°C,Pleasant,6 AM - 6 PM
+Ellora Caves,Aurangabad,Heritage,1.6,Had a decent experience overall.,neutral,25°C,Pleasant,6 AM - 6 PM
+Ellora Caves,Aurangabad,Heritage,2.6,"Nothing extraordinary, just average.",neutral,25°C,Pleasant,6 AM - 6 PM
+Ellora Caves,Aurangabad,Heritage,4.1,Breathtaking view and peaceful atmosphere.,positive,25°C,Pleasant,6 AM - 6 PM
+Ellora Caves,Aurangabad,Heritage,2.6,"Nothing extraordinary, just average.",neutral,25°C,Pleasant,6 AM - 6 PM
+Shaniwar Wada,Pune,Historical,3.2,A must-visit with family!,positive,25°C,Pleasant,6 AM - 6 PM
+Shaniwar Wada,Pune,Historical,2.8,A must-visit with family!,positive,25°C,Pleasant,6 AM - 6 PM
+Shaniwar Wada,Pune,Historical,4.3,Breathtaking view and peaceful atmosphere.,positive,25°C,Pleasant,6 AM - 6 PM
+Shaniwar Wada,Pune,Historical,3.4,Beautiful architecture and well-preserved.,positive,25°C,Pleasant,6 AM - 6 PM
+Shaniwar Wada,Pune,Historical,2.5,Food and facilities were disappointing.,negative,25°C,Pleasant,6 AM - 6 PM
+Shaniwar Wada,Pune,Historical,2.6,"Nothing extraordinary, just average.",neutral,25°C,Pleasant,6 AM - 6 PM
+Shaniwar Wada,Pune,Historical,3.4,A must-visit with family!,positive,25°C,Pleasant,6 AM - 6 PM
+Shaniwar Wada,Pune,Historical,1.3,"Nothing extraordinary, just average.",neutral,25°C,Pleasant,6 AM - 6 PM
+Shaniwar Wada,Pune,Historical,3.2,"Nothing extraordinary, just average.",neutral,25°C,Pleasant,6 AM - 6 PM
+Shaniwar Wada,Pune,Historical,2.9,Spiritual and calming visit.,positive,25°C,Pleasant,6 AM - 6 PM
+Sinhagad Fort,Pune,Fort,2.5,Food and facilities were disappointing.,negative,25°C,Pleasant,6 AM - 6 PM
+Sinhagad Fort,Pune,Fort,2.4,"Not worth the hype, poorly maintained.",negative,25°C,Pleasant,6 AM - 6 PM
+Sinhagad Fort,Pune,Fort,2.9,"Not worth the hype, poorly maintained.",negative,25°C,Pleasant,6 AM - 6 PM
+Sinhagad Fort,Pune,Fort,3.0,Spiritual and calming visit.,positive,25°C,Pleasant,6 AM - 6 PM
+Sinhagad Fort,Pune,Fort,3.7,Beautiful architecture and well-preserved.,positive,25°C,Pleasant,6 AM - 6 PM
+Sinhagad Fort,Pune,Fort,4.7,Amazing place with rich history!,positive,25°C,Pleasant,6 AM - 6 PM
+Sinhagad Fort,Pune,Fort,1.1,"Not worth the hype, poorly maintained.",negative,25°C,Pleasant,6 AM - 6 PM
+Sinhagad Fort,Pune,Fort,4.1,Amazing place with rich history!,positive,25°C,Pleasant,6 AM - 6 PM
+Sinhagad Fort,Pune,Fort,1.4,"Not worth the hype, poorly maintained.",negative,25°C,Pleasant,6 AM - 6 PM
+Sinhagad Fort,Pune,Fort,2.7,Breathtaking view and peaceful atmosphere.,positive,25°C,Pleasant,6 AM - 6 PM
+Mahabaleshwar,Satara,Hill Station,3.2,Spiritual and calming visit.,positive,25°C,Pleasant,6 AM - 6 PM
+Mahabaleshwar,Satara,Hill Station,4.9,A must-visit with family!,positive,25°C,Pleasant,6 AM - 6 PM
+Mahabaleshwar,Satara,Hill Station,4.0,Amazing place with rich history!,positive,25°C,Pleasant,6 AM - 6 PM
+Mahabaleshwar,Satara,Hill Station,3.4,Very crowded and not clean.,negative,25°C,Pleasant,6 AM - 6 PM
+Mahabaleshwar,Satara,Hill Station,3.2,Had a decent experience overall.,neutral,25°C,Pleasant,6 AM - 6 PM
+Mahabaleshwar,Satara,Hill Station,4.6,Spiritual and calming visit.,positive,25°C,Pleasant,6 AM - 6 PM
+Mahabaleshwar,Satara,Hill Station,3.1,Spiritual and calming visit.,positive,25°C,Pleasant,6 AM - 6 PM
+Mahabaleshwar,Satara,Hill Station,3.8,A must-visit with family!,positive,25°C,Pleasant,6 AM - 6 PM
+Mahabaleshwar,Satara,Hill Station,3.8,Amazing place with rich history!,positive,25°C,Pleasant,6 AM - 6 PM
+Mahabaleshwar,Satara,Hill Station,2.2,"Nothing extraordinary, just average.",neutral,25°C,Pleasant,6 AM - 6 PM
+Lonavala,Pune,Hill Station,2.5,Had a decent experience overall.,neutral,25°C,Pleasant,6 AM - 6 PM
+Lonavala,Pune,Hill Station,2.6,Very crowded and not clean.,negative,25°C,Pleasant,6 AM - 6 PM
+Lonavala,Pune,Hill Station,4.9,Amazing place with rich history!,positive,25°C,Pleasant,6 AM - 6 PM
+Lonavala,Pune,Hill Station,4.5,Spiritual and calming visit.,positive,25°C,Pleasant,6 AM - 6 PM
+Lonavala,Pune,Hill Station,3.4,Food and facilities were disappointing.,negative,25°C,Pleasant,6 AM - 6 PM
+Lonavala,Pune,Hill Station,1.6,"Not worth the hype, poorly maintained.",negative,25°C,Pleasant,6 AM - 6 PM
+Lonavala,Pune,Hill Station,4.6,Beautiful architecture and well-preserved.,positive,25°C,Pleasant,6 AM - 6 PM
+Lonavala,Pune,Hill Station,3.3,A must-visit with family!,positive,25°C,Pleasant,6 AM - 6 PM
+Lonavala,Pune,Hill Station,1.5,Food and facilities were disappointing.,negative,25°C,Pleasant,6 AM - 6 PM
+Lonavala,Pune,Hill Station,3.4,"Not worth the hype, poorly maintained.",negative,25°C,Pleasant,6 AM - 6 PM
+Tarkarli Beach,Sindhudurg,Beach,2.6,Food and facilities were disappointing.,negative,25°C,Pleasant,6 AM - 6 PM
+Tarkarli Beach,Sindhudurg,Beach,2.0,"Nothing extraordinary, just average.",neutral,25°C,Pleasant,6 AM - 6 PM
+Tarkarli Beach,Sindhudurg,Beach,2.8,Had a decent experience overall.,neutral,25°C,Pleasant,6 AM - 6 PM
+Tarkarli Beach,Sindhudurg,Beach,2.5,Very crowded and not clean.,negative,25°C,Pleasant,6 AM - 6 PM
+Tarkarli Beach,Sindhudurg,Beach,3.7,Spiritual and calming visit.,positive,25°C,Pleasant,6 AM - 6 PM
+Tarkarli Beach,Sindhudurg,Beach,4.5,Beautiful architecture and well-preserved.,positive,25°C,Pleasant,6 AM - 6 PM
+Tarkarli Beach,Sindhudurg,Beach,2.5,Had a decent experience overall.,neutral,25°C,Pleasant,6 AM - 6 PM
+Tarkarli Beach,Sindhudurg,Beach,3.8,A must-visit with family!,positive,25°C,Pleasant,6 AM - 6 PM
+Tarkarli Beach,Sindhudurg,Beach,1.8,Had a decent experience overall.,neutral,25°C,Pleasant,6 AM - 6 PM
+Tarkarli Beach,Sindhudurg,Beach,3.8,A must-visit with family!,positive,25°C,Pleasant,6 AM - 6 PM
+Bhandardara,Ahmednagar,Nature,1.4,"Nothing extraordinary, just average.",neutral,25°C,Pleasant,6 AM - 6 PM
+Bhandardara,Ahmednagar,Nature,2.8,Food and facilities were disappointing.,negative,25°C,Pleasant,6 AM - 6 PM
+Bhandardara,Ahmednagar,Nature,3.7,Spiritual and calming visit.,positive,25°C,Pleasant,6 AM - 6 PM
+Bhandardara,Ahmednagar,Nature,4.3,Beautiful architecture and well-preserved.,positive,25°C,Pleasant,6 AM - 6 PM
+Bhandardara,Ahmednagar,Nature,3.8,Amazing place with rich history!,positive,25°C,Pleasant,6 AM - 6 PM
+Bhandardara,Ahmednagar,Nature,4.6,Spiritual and calming visit.,positive,25°C,Pleasant,6 AM - 6 PM
+Bhandardara,Ahmednagar,Nature,1.5,Very crowded and not clean.,negative,25°C,Pleasant,6 AM - 6 PM
+Bhandardara,Ahmednagar,Nature,4.1,Spiritual and calming visit.,positive,25°C,Pleasant,6 AM - 6 PM
+Bhandardara,Ahmednagar,Nature,1.0,Very crowded and not clean.,negative,25°C,Pleasant,6 AM - 6 PM
+Bhandardara,Ahmednagar,Nature,1.3,Very crowded and not clean.,negative,25°C,Pleasant,6 AM - 6 PM
+Trimbakeshwar Temple,Nashik,Religious,3.4,"Nothing extraordinary, just average.",neutral,25°C,Pleasant,6 AM - 6 PM
+Trimbakeshwar Temple,Nashik,Religious,2.4,Very crowded and not clean.,negative,25°C,Pleasant,6 AM - 6 PM
+Trimbakeshwar Temple,Nashik,Religious,4.4,Spiritual and calming visit.,positive,25°C,Pleasant,6 AM - 6 PM
+Trimbakeshwar Temple,Nashik,Religious,2.1,Had a decent experience overall.,neutral,25°C,Pleasant,6 AM - 6 PM
+Trimbakeshwar Temple,Nashik,Religious,3.0,Food and facilities were disappointing.,negative,25°C,Pleasant,6 AM - 6 PM
+Trimbakeshwar Temple,Nashik,Religious,4.9,Amazing place with rich history!,positive,25°C,Pleasant,6 AM - 6 PM
+Trimbakeshwar Temple,Nashik,Religious,4.2,Breathtaking view and peaceful atmosphere.,positive,25°C,Pleasant,6 AM - 6 PM
+Trimbakeshwar Temple,Nashik,Religious,3.1,Amazing place with rich history!,positive,25°C,Pleasant,6 AM - 6 PM
+Trimbakeshwar Temple,Nashik,Religious,3.0,Had a decent experience overall.,neutral,25°C,Pleasant,6 AM - 6 PM
+Trimbakeshwar Temple,Nashik,Religious,3.6,Breathtaking view and peaceful atmosphere.,positive,25°C,Pleasant,6 AM - 6 PM
+Matheran,Raigad,Hill Station,2.1,"Nothing extraordinary, just average.",neutral,25°C,Pleasant,6 AM - 6 PM
+Matheran,Raigad,Hill Station,2.6,"Nothing extraordinary, just average.",neutral,25°C,Pleasant,6 AM - 6 PM
+Matheran,Raigad,Hill Station,3.3,Had a decent experience overall.,neutral,25°C,Pleasant,6 AM - 6 PM
+Matheran,Raigad,Hill Station,1.3,Very crowded and not clean.,negative,25°C,Pleasant,6 AM - 6 PM
+Matheran,Raigad,Hill Station,3.3,"Not worth the hype, poorly maintained.",negative,25°C,Pleasant,6 AM - 6 PM
+Matheran,Raigad,Hill Station,3.0,Breathtaking view and peaceful atmosphere.,positive,25°C,Pleasant,6 AM - 6 PM
+Matheran,Raigad,Hill Station,1.1,Food and facilities were disappointing.,negative,25°C,Pleasant,6 AM - 6 PM
+Matheran,Raigad,Hill Station,3.5,Amazing place with rich history!,positive,25°C,Pleasant,6 AM - 6 PM
+Matheran,Raigad,Hill Station,2.2,Had a decent experience overall.,neutral,25°C,Pleasant,6 AM - 6 PM
+Matheran,Raigad,Hill Station,2.2,Food and facilities were disappointing.,negative,25°C,Pleasant,6 AM - 6 PM
+Chhatrapati Shivaji Terminus,Mumbai,Heritage,1.4,Food and facilities were disappointing.,negative,25°C,Pleasant,6 AM - 6 PM
+Chhatrapati Shivaji Terminus,Mumbai,Heritage,2.4,Had a decent experience overall.,neutral,25°C,Pleasant,6 AM - 6 PM
+Chhatrapati Shivaji Terminus,Mumbai,Heritage,3.1,Had a decent experience overall.,neutral,25°C,Pleasant,6 AM - 6 PM
+Chhatrapati Shivaji Terminus,Mumbai,Heritage,4.6,Amazing place with rich history!,positive,25°C,Pleasant,6 AM - 6 PM
+Chhatrapati Shivaji Terminus,Mumbai,Heritage,2.8,Very crowded and not clean.,negative,25°C,Pleasant,6 AM - 6 PM
+Chhatrapati Shivaji Terminus,Mumbai,Heritage,4.6,Breathtaking view and peaceful atmosphere.,positive,25°C,Pleasant,6 AM - 6 PM
+Chhatrapati Shivaji Terminus,Mumbai,Heritage,1.6,Very crowded and not clean.,negative,25°C,Pleasant,6 AM - 6 PM
+Chhatrapati Shivaji Terminus,Mumbai,Heritage,4.1,Beautiful architecture and well-preserved.,positive,25°C,Pleasant,6 AM - 6 PM
+Chhatrapati Shivaji Terminus,Mumbai,Heritage,4.8,A must-visit with family!,positive,25°C,Pleasant,6 AM - 6 PM
+Chhatrapati Shivaji Terminus,Mumbai,Heritage,1.4,Had a decent experience overall.,neutral,25°C,Pleasant,6 AM - 6 PM
+Alibaug,Raigad,Beach,3.4,"Nothing extraordinary, just average.",neutral,25°C,Pleasant,6 AM - 6 PM
+Alibaug,Raigad,Beach,2.1,Food and facilities were disappointing.,negative,25°C,Pleasant,6 AM - 6 PM
+Alibaug,Raigad,Beach,3.2,Spiritual and calming visit.,positive,25°C,Pleasant,6 AM - 6 PM
+Alibaug,Raigad,Beach,4.0,Beautiful architecture and well-preserved.,positive,25°C,Pleasant,6 AM - 6 PM
+Alibaug,Raigad,Beach,2.4,"Not worth the hype, poorly maintained.",negative,25°C,Pleasant,6 AM - 6 PM
+Alibaug,Raigad,Beach,4.1,Breathtaking view and peaceful atmosphere.,positive,25°C,Pleasant,6 AM - 6 PM
+Alibaug,Raigad,Beach,2.6,"Not worth the hype, poorly maintained.",negative,25°C,Pleasant,6 AM - 6 PM
+Alibaug,Raigad,Beach,2.6,Very crowded and not clean.,negative,25°C,Pleasant,6 AM - 6 PM
+Alibaug,Raigad,Beach,1.3,Very crowded and not clean.,negative,25°C,Pleasant,6 AM - 6 PM
+Alibaug,Raigad,Beach,4.9,Spiritual and calming visit.,positive,25°C,Pleasant,6 AM - 6 PM
+Raigad Fort,Raigad,Fort,2.1,Food and facilities were disappointing.,negative,25°C,Pleasant,6 AM - 6 PM
+Raigad Fort,Raigad,Fort,4.2,Breathtaking view and peaceful atmosphere.,positive,25°C,Pleasant,6 AM - 6 PM
+Raigad Fort,Raigad,Fort,1.9,Very crowded and not clean.,negative,25°C,Pleasant,6 AM - 6 PM
+Raigad Fort,Raigad,Fort,2.4,Had a decent experience overall.,neutral,25°C,Pleasant,6 AM - 6 PM
+Raigad Fort,Raigad,Fort,4.0,Spiritual and calming visit.,positive,25°C,Pleasant,6 AM - 6 PM
+Raigad Fort,Raigad,Fort,3.5,Spiritual and calming visit.,positive,25°C,Pleasant,6 AM - 6 PM
+Raigad Fort,Raigad,Fort,2.3,Very crowded and not clean.,negative,25°C,Pleasant,6 AM - 6 PM
+Raigad Fort,Raigad,Fort,4.4,Breathtaking view and peaceful atmosphere.,positive,25°C,Pleasant,6 AM - 6 PM
+Raigad Fort,Raigad,Fort,1.3,"Not worth the hype, poorly maintained.",negative,25°C,Pleasant,6 AM - 6 PM
+Raigad Fort,Raigad,Fort,2.5,Food and facilities were disappointing.,negative,25°C,Pleasant,6 AM - 6 PM
+Harihareshwar,Raigad,Beach,3.9,Breathtaking view and peaceful atmosphere.,positive,25°C,Pleasant,6 AM - 6 PM
+Harihareshwar,Raigad,Beach,3.7,Amazing place with rich history!,positive,25°C,Pleasant,6 AM - 6 PM
+Harihareshwar,Raigad,Beach,4.5,Beautiful architecture and well-preserved.,positive,25°C,Pleasant,6 AM - 6 PM
+Harihareshwar,Raigad,Beach,2.6,Breathtaking view and peaceful atmosphere.,positive,25°C,Pleasant,6 AM - 6 PM
+Harihareshwar,Raigad,Beach,3.7,Breathtaking view and peaceful atmosphere.,positive,25°C,Pleasant,6 AM - 6 PM
+Harihareshwar,Raigad,Beach,2.9,Very crowded and not clean.,negative,25°C,Pleasant,6 AM - 6 PM
+Harihareshwar,Raigad,Beach,4.0,A must-visit with family!,positive,25°C,Pleasant,6 AM - 6 PM
+Harihareshwar,Raigad,Beach,3.0,Amazing place with rich history!,positive,25°C,Pleasant,6 AM - 6 PM
+Harihareshwar,Raigad,Beach,3.1,"Nothing extraordinary, just average.",neutral,25°C,Pleasant,6 AM - 6 PM
+Harihareshwar,Raigad,Beach,3.0,Beautiful architecture and well-preserved.,positive,25°C,Pleasant,6 AM - 6 PM
